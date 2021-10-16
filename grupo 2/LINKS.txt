@@ -1,0 +1,16 @@
+// POSTMAN //
+https://grupo2-458606.postman.co/team
+
+// VUE.JS APP //
+http://localhost:8080/
+
+// GITHUB //
+https://github.com/JUANPABLOQUIPAZOCA/playlist
+https://github.com/Godinez79/CloudPlayUTP
+
+// MONGODB //
+localhost:27017
+
+
+
+
